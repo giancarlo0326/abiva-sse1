@@ -22,8 +22,6 @@
 		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"></item>
 		<item id="acknowledgements" href="acknowledgements.xhtml" media-type="application/xhtml+xml"></item>
 	
-	
-	
 		<!-- U1 xhtml files -->
 		<item id="U1" href="unit1/U1.xhtml" media-type="application/xhtml+xml"></item>
 		<item id="U1L1" href="unit1/U1L1.xhtml" media-type="application/xhtml+xml"></item>
@@ -40,12 +38,18 @@
 		<item id="U2L4" href="unit2/U2L4.xhtml" media-type="application/xhtml+xml"></item>
 		<item id="U2L5" href="unit2/U2L5.xhtml" media-type="application/xhtml+xml"></item>
 
+		<!-- U3 xhtml files -->
+		<item id="U3" href="unit3/U3.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U3L1" href="unit3/U3L1.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U3L2" href="unit3/U3L2.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U3L3" href="unit3/U3L3.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U3L4" href="unit3/U3L4.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U3L5" href="unit3/U3L5.xhtml" media-type="application/xhtml+xml"></item>
 
-		
 		<!-- TOC -->
 		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"></item>
-		
+
 
 		<!-- CSS -->
 		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"></item>
@@ -105,12 +109,23 @@
 		<item id="U1L4_Title.png" href="image/unit1/U1L4_Title.png" media-type="image/png"></item>
 		<item id="U1L5_Title.png" href="image/unit1/U1L5_Title.png" media-type="image/png"></item>
 
+
+		<!-- Unit 2 Title -->
 		<item id="U2_Opener.png" href="image/unit2/U2_Opener.png" media-type="image/png"></item>
 		<item id="U2L1_Title.png" href="image/unit2/U2L1_Title.png" media-type="image/png"></item>
 		<item id="U2L2_Title.png" href="image/unit2/U2L2_Title.png" media-type="image/png"></item>
 		<item id="U2L3_Title.png" href="image/unit2/U2L3_Title.png" media-type="image/png"></item>
 		<item id="U2L4_Title.png" href="image/unit2/U2L4_Title.png" media-type="image/png"></item>
 		<item id="U2L5_Title.png" href="image/unit2/U2L5_Title.png" media-type="image/png"></item>
+
+		<!-- Unit 3 Title -->
+		<item id="U3_Opener.png" href="image/unit3/U3_Opener.png" media-type="image/png"></item>
+		<item id="U3L1_Title.png" href="image/unit3/U3L1_Title.png" media-type="image/png"></item>
+		<item id="U3L2_Title.png" href="image/unit3/U3L2_Title.png" media-type="image/png"></item>
+		<item id="U3L3_Title.png" href="image/unit3/U3L3_Title.png" media-type="image/png"></item>
+		<item id="U3L4_Title.png" href="image/unit3/U3L4_Title.png" media-type="image/png"></item>
+		<item id="U3L5_Title.png" href="image/unit3/U3L5_Title.png" media-type="image/png"></item>
+
 
 		<!-- Unit 1 Lesson 1 -->
 		<item id="img001.png" href="image/unit1/U1L1/img001.png" media-type="image/png"></item>
@@ -804,6 +819,275 @@
 		<item id="img641.png" href="image/unit2/U2L5/img641.png" media-type="image/png"></item>
 		<item id="img642.png" href="image/unit2/U2L5/img642.png" media-type="image/png"></item>
 		<item id="img643.png" href="image/unit2/U2L5/img643.png" media-type="image/png"></item>
+
+		<!-- Unit 3 Lesson 1 -->
+
+		<item id="img644.png" href="image/unit3/U3L1/img644.png" media-type="image/png"></item>
+		<item id="img645.png" href="image/unit3/U3L1/img645.png" media-type="image/png"></item>
+		<item id="img646.png" href="image/unit3/U3L1/img646.png" media-type="image/png"></item>
+		<item id="img647.png" href="image/unit3/U3L1/img647.png" media-type="image/png"></item>
+		<item id="img648.png" href="image/unit3/U3L1/img648.png" media-type="image/png"></item>
+		<item id="img649.png" href="image/unit3/U3L1/img649.png" media-type="image/png"></item>
+		<item id="img650.png" href="image/unit3/U3L1/img650.png" media-type="image/png"></item>
+		<item id="img651.png" href="image/unit3/U3L1/img651.png" media-type="image/png"></item>
+		<item id="img652.png" href="image/unit3/U3L1/img652.png" media-type="image/png"></item>
+		<item id="img653.png" href="image/unit3/U3L1/img653.png" media-type="image/png"></item>
+		<item id="img654.png" href="image/unit3/U3L1/img654.png" media-type="image/png"></item>
+		<item id="img655.png" href="image/unit3/U3L1/img655.png" media-type="image/png"></item>
+		<item id="img656.png" href="image/unit3/U3L1/img656.png" media-type="image/png"></item>
+		<item id="img657.png" href="image/unit3/U3L1/img657.png" media-type="image/png"></item>
+		<item id="img658.png" href="image/unit3/U3L1/img658.png" media-type="image/png"></item>
+		<item id="img659.png" href="image/unit3/U3L1/img659.png" media-type="image/png"></item>
+		<item id="img660.png" href="image/unit3/U3L1/img660.png" media-type="image/png"></item>
+		<item id="img661.png" href="image/unit3/U3L1/img661.png" media-type="image/png"></item>
+		<item id="img662.png" href="image/unit3/U3L1/img662.png" media-type="image/png"></item>
+		<item id="img663.png" href="image/unit3/U3L1/img663.png" media-type="image/png"></item>
+		<item id="img664.png" href="image/unit3/U3L1/img664.png" media-type="image/png"></item>
+		<item id="img665.png" href="image/unit3/U3L1/img665.png" media-type="image/png"></item>
+		<item id="img666.png" href="image/unit3/U3L1/img666.png" media-type="image/png"></item>
+		<item id="img667.png" href="image/unit3/U3L1/img667.png" media-type="image/png"></item>
+		<item id="img668.png" href="image/unit3/U3L1/img668.png" media-type="image/png"></item>
+		<item id="img669.png" href="image/unit3/U3L1/img669.png" media-type="image/png"></item>
+		<item id="img670.png" href="image/unit3/U3L1/img670.png" media-type="image/png"></item>
+		<item id="img671.png" href="image/unit3/U3L1/img671.png" media-type="image/png"></item>
+		<item id="img672.png" href="image/unit3/U3L1/img672.png" media-type="image/png"></item>
+		<item id="img673.png" href="image/unit3/U3L1/img673.png" media-type="image/png"></item>
+		<item id="img674.png" href="image/unit3/U3L1/img674.png" media-type="image/png"></item>
+		<item id="img675.png" href="image/unit3/U3L1/img675.png" media-type="image/png"></item>
+		<item id="img676.png" href="image/unit3/U3L1/img676.png" media-type="image/png"></item>
+		<item id="img677.png" href="image/unit3/U3L1/img677.png" media-type="image/png"></item>
+		<item id="img678.png" href="image/unit3/U3L1/img678.png" media-type="image/png"></item>
+		<item id="img679.png" href="image/unit3/U3L1/img679.png" media-type="image/png"></item>
+		<item id="img680.png" href="image/unit3/U3L1/img680.png" media-type="image/png"></item>
+		<item id="img681.png" href="image/unit3/U3L1/img681.png" media-type="image/png"></item>
+		<item id="img682.png" href="image/unit3/U3L1/img682.png" media-type="image/png"></item>
+		<item id="img683.png" href="image/unit3/U3L1/img683.png" media-type="image/png"></item>
+		<item id="img684.png" href="image/unit3/U3L1/img684.png" media-type="image/png"></item>
+		<item id="img685.png" href="image/unit3/U3L1/img685.png" media-type="image/png"></item>
+		<item id="img686.png" href="image/unit3/U3L1/img686.png" media-type="image/png"></item>
+		<item id="img687.png" href="image/unit3/U3L1/img687.png" media-type="image/png"></item>
+		<item id="img688.png" href="image/unit3/U3L1/img688.png" media-type="image/png"></item>
+		<item id="img689.png" href="image/unit3/U3L1/img689.png" media-type="image/png"></item>
+		<item id="img690.png" href="image/unit3/U3L1/img690.png" media-type="image/png"></item>
+		<item id="img691.png" href="image/unit3/U3L1/img691.png" media-type="image/png"></item>
+		<item id="img692.png" href="image/unit3/U3L1/img692.png" media-type="image/png"></item>
+		<item id="img693.png" href="image/unit3/U3L1/img693.png" media-type="image/png"></item>
+		<item id="img694.png" href="image/unit3/U3L1/img694.png" media-type="image/png"></item>
+		<item id="img695.png" href="image/unit3/U3L1/img695.png" media-type="image/png"></item>
+		<item id="img696.png" href="image/unit3/U3L1/img696.png" media-type="image/png"></item>
+		<item id="img697.png" href="image/unit3/U3L1/img697.png" media-type="image/png"></item>
+		<item id="img698.png" href="image/unit3/U3L1/img698.png" media-type="image/png"></item>
+		<item id="img699.png" href="image/unit3/U3L1/img699.png" media-type="image/png"></item>
+		<item id="img700.png" href="image/unit3/U3L1/img700.png" media-type="image/png"></item>
+		<item id="img701.png" href="image/unit3/U3L1/img701.png" media-type="image/png"></item>
+		<item id="img702.png" href="image/unit3/U3L1/img702.png" media-type="image/png"></item>
+		<item id="img703.png" href="image/unit3/U3L1/img703.png" media-type="image/png"></item>
+		<item id="img704.png" href="image/unit3/U3L1/img704.png" media-type="image/png"></item>
+		<item id="img705.png" href="image/unit3/U3L1/img705.png" media-type="image/png"></item>
+		<item id="img706.png" href="image/unit3/U3L1/img706.png" media-type="image/png"></item>
+		<item id="img707.png" href="image/unit3/U3L1/img707.png" media-type="image/png"></item>
+		<item id="img708.png" href="image/unit3/U3L1/img708.png" media-type="image/png"></item>
+		<item id="img709.png" href="image/unit3/U3L1/img709.png" media-type="image/png"></item>
+		<item id="img710.png" href="image/unit3/U3L1/img710.png" media-type="image/png"></item>
+		<item id="img711.png" href="image/unit3/U3L1/img711.png" media-type="image/png"></item>
+		<item id="img712.png" href="image/unit3/U3L1/img712.png" media-type="image/png"></item>
+		<item id="img713.png" href="image/unit3/U3L1/img713.png" media-type="image/png"></item>
+		<item id="img714.png" href="image/unit3/U3L1/img714.png" media-type="image/png"></item>
+		<item id="img715.png" href="image/unit3/U3L1/img715.png" media-type="image/png"></item>
+		<item id="img716.png" href="image/unit3/U3L1/img716.png" media-type="image/png"></item>
+		<item id="img717.png" href="image/unit3/U3L1/img717.png" media-type="image/png"></item>
+		<item id="img718.png" href="image/unit3/U3L1/img718.png" media-type="image/png"></item>
+		<item id="img719.png" href="image/unit3/U3L1/img719.png" media-type="image/png"></item>
+		<item id="img720.png" href="image/unit3/U3L1/img720.png" media-type="image/png"></item>
+		<item id="img721.png" href="image/unit3/U3L1/img721.png" media-type="image/png"></item>
+		<item id="img722.png" href="image/unit3/U3L1/img722.png" media-type="image/png"></item>
+		<item id="img723.png" href="image/unit3/U3L1/img723.png" media-type="image/png"></item>
+		<item id="img724.png" href="image/unit3/U3L1/img724.png" media-type="image/png"></item>
+		<item id="img725.png" href="image/unit3/U3L1/img725.png" media-type="image/png"></item>
+		<item id="img726.png" href="image/unit3/U3L1/img726.png" media-type="image/png"></item>
+		<item id="img727.png" href="image/unit3/U3L1/img727.png" media-type="image/png"></item>
+
+		<!-- Unit 3 Lesson 2 -->
+
+		<item id="img728.png" href="image/unit3/U3L2/img728.png" media-type="image/png"></item>
+		<item id="img729.png" href="image/unit3/U3L2/img729.png" media-type="image/png"></item>
+		<item id="img730.png" href="image/unit3/U3L2/img730.png" media-type="image/png"></item>
+		<item id="img731.png" href="image/unit3/U3L2/img731.png" media-type="image/png"></item>
+		<item id="img732.png" href="image/unit3/U3L2/img732.png" media-type="image/png"></item>
+		<item id="img733.png" href="image/unit3/U3L2/img733.png" media-type="image/png"></item>
+		<item id="img734.png" href="image/unit3/U3L2/img734.png" media-type="image/png"></item>
+		<item id="img735.png" href="image/unit3/U3L2/img735.png" media-type="image/png"></item>
+		<item id="img736.png" href="image/unit3/U3L2/img736.png" media-type="image/png"></item>
+		<item id="img737.png" href="image/unit3/U3L2/img737.png" media-type="image/png"></item>
+		<item id="img738.png" href="image/unit3/U3L2/img738.png" media-type="image/png"></item>
+		<item id="img739.png" href="image/unit3/U3L2/img739.png" media-type="image/png"></item>
+		<item id="img740.png" href="image/unit3/U3L2/img740.png" media-type="image/png"></item>
+		<item id="img741.png" href="image/unit3/U3L2/img741.png" media-type="image/png"></item>
+		<item id="img742.png" href="image/unit3/U3L2/img742.png" media-type="image/png"></item>
+		<item id="img743.png" href="image/unit3/U3L2/img743.png" media-type="image/png"></item>
+		<item id="img744.png" href="image/unit3/U3L2/img744.png" media-type="image/png"></item>
+		<item id="img745.png" href="image/unit3/U3L2/img745.png" media-type="image/png"></item>
+		<item id="img746.png" href="image/unit3/U3L2/img746.png" media-type="image/png"></item>
+		<item id="img747.png" href="image/unit3/U3L2/img747.png" media-type="image/png"></item>
+		<item id="img748.png" href="image/unit3/U3L2/img748.png" media-type="image/png"></item>
+		<item id="img749.png" href="image/unit3/U3L2/img749.png" media-type="image/png"></item>
+		<item id="img750.png" href="image/unit3/U3L2/img750.png" media-type="image/png"></item>
+		<item id="img751.png" href="image/unit3/U3L2/img751.png" media-type="image/png"></item>
+		<item id="img752.png" href="image/unit3/U3L2/img752.png" media-type="image/png"></item>
+		<item id="img753.png" href="image/unit3/U3L2/img753.png" media-type="image/png"></item>
+		<item id="img754.png" href="image/unit3/U3L2/img754.png" media-type="image/png"></item>
+		<item id="img755.png" href="image/unit3/U3L2/img755.png" media-type="image/png"></item>
+		<item id="img756.png" href="image/unit3/U3L2/img756.png" media-type="image/png"></item>
+		<item id="img757.png" href="image/unit3/U3L2/img757.png" media-type="image/png"></item>
+		<item id="img758.png" href="image/unit3/U3L2/img758.png" media-type="image/png"></item>
+		<item id="img759.png" href="image/unit3/U3L2/img759.png" media-type="image/png"></item>
+		<item id="img760.png" href="image/unit3/U3L2/img760.png" media-type="image/png"></item>
+		<item id="img761.png" href="image/unit3/U3L2/img761.png" media-type="image/png"></item>
+		<item id="img762.png" href="image/unit3/U3L2/img762.png" media-type="image/png"></item>
+		<item id="img763.png" href="image/unit3/U3L2/img763.png" media-type="image/png"></item>
+
+		<!-- Unit 3 Lesson 3 -->
+
+		<item id="img764.png" href="image/unit3/U3L3/img764.png" media-type="image/png"></item>
+		<item id="img765.png" href="image/unit3/U3L3/img765.png" media-type="image/png"></item>
+		<item id="img766.png" href="image/unit3/U3L3/img766.png" media-type="image/png"></item>
+		<item id="img767.png" href="image/unit3/U3L3/img767.png" media-type="image/png"></item>
+		<item id="img768.png" href="image/unit3/U3L3/img768.png" media-type="image/png"></item>
+		<item id="img769.png" href="image/unit3/U3L3/img769.png" media-type="image/png"></item>
+		<item id="img770.png" href="image/unit3/U3L3/img770.png" media-type="image/png"></item>
+		<item id="img771.png" href="image/unit3/U3L3/img771.png" media-type="image/png"></item>
+		<item id="img772.png" href="image/unit3/U3L3/img772.png" media-type="image/png"></item>
+		<item id="img773.png" href="image/unit3/U3L3/img773.png" media-type="image/png"></item>
+		<item id="img774.png" href="image/unit3/U3L3/img774.png" media-type="image/png"></item>
+		<item id="img775.png" href="image/unit3/U3L3/img775.png" media-type="image/png"></item>
+		<item id="img776.png" href="image/unit3/U3L3/img776.png" media-type="image/png"></item>
+		<item id="img777.png" href="image/unit3/U3L3/img777.png" media-type="image/png"></item>
+		<item id="img778.png" href="image/unit3/U3L3/img778.png" media-type="image/png"></item>
+		<item id="img779.png" href="image/unit3/U3L3/img779.png" media-type="image/png"></item>
+		<item id="img780.png" href="image/unit3/U3L3/img780.png" media-type="image/png"></item>
+		<item id="img781.png" href="image/unit3/U3L3/img781.png" media-type="image/png"></item>
+		<item id="img782.png" href="image/unit3/U3L3/img782.png" media-type="image/png"></item>
+		<item id="img783.png" href="image/unit3/U3L3/img783.png" media-type="image/png"></item>
+		<item id="img784.png" href="image/unit3/U3L3/img784.png" media-type="image/png"></item>
+		<item id="img785.png" href="image/unit3/U3L3/img785.png" media-type="image/png"></item>
+		<item id="img786.png" href="image/unit3/U3L3/img786.png" media-type="image/png"></item>
+		<item id="img787.png" href="image/unit3/U3L3/img787.png" media-type="image/png"></item>
+		<item id="img788.png" href="image/unit3/U3L3/img788.png" media-type="image/png"></item>
+		<item id="img789.png" href="image/unit3/U3L3/img789.png" media-type="image/png"></item>
+		<item id="img790.png" href="image/unit3/U3L3/img790.png" media-type="image/png"></item>
+		<item id="img791.png" href="image/unit3/U3L3/img791.png" media-type="image/png"></item>
+		<item id="img792.png" href="image/unit3/U3L3/img792.png" media-type="image/png"></item>
+		<item id="img793.png" href="image/unit3/U3L3/img793.png" media-type="image/png"></item>
+		<item id="img794.png" href="image/unit3/U3L3/img794.png" media-type="image/png"></item>
+		<item id="img795.png" href="image/unit3/U3L3/img795.png" media-type="image/png"></item>
+		<item id="img796.png" href="image/unit3/U3L3/img796.png" media-type="image/png"></item>
+		<item id="img797.png" href="image/unit3/U3L3/img797.png" media-type="image/png"></item>
+		<item id="img798.png" href="image/unit3/U3L3/img798.png" media-type="image/png"></item>
+		<item id="img799.png" href="image/unit3/U3L3/img799.png" media-type="image/png"></item>
+		<item id="img800.png" href="image/unit3/U3L3/img800.png" media-type="image/png"></item>
+		<item id="img801.png" href="image/unit3/U3L3/img801.png" media-type="image/png"></item>
+		<item id="img802.png" href="image/unit3/U3L3/img802.png" media-type="image/png"></item>
+		<item id="img803.png" href="image/unit3/U3L3/img803.png" media-type="image/png"></item>
+		<item id="img804.png" href="image/unit3/U3L3/img804.png" media-type="image/png"></item>
+		<item id="img805.png" href="image/unit3/U3L3/img805.png" media-type="image/png"></item>
+		<item id="img806.png" href="image/unit3/U3L3/img806.png" media-type="image/png"></item>
+		<item id="img807.png" href="image/unit3/U3L3/img807.png" media-type="image/png"></item>
+		<item id="img808.png" href="image/unit3/U3L3/img808.png" media-type="image/png"></item>
+		<item id="img809.png" href="image/unit3/U3L3/img809.png" media-type="image/png"></item>
+		<item id="img810.png" href="image/unit3/U3L3/img810.png" media-type="image/png"></item>
+		<item id="img811.png" href="image/unit3/U3L3/img811.png" media-type="image/png"></item>
+		<item id="img812.png" href="image/unit3/U3L3/img812.png" media-type="image/png"></item>
+		<item id="img813.png" href="image/unit3/U3L3/img813.png" media-type="image/png"></item>
+		<item id="img814.png" href="image/unit3/U3L3/img814.png" media-type="image/png"></item>
+		<item id="img815.png" href="image/unit3/U3L3/img815.png" media-type="image/png"></item>
+
+		<!-- Unit 3 Lesson 4 -->
+
+		<item id="img816.png" href="image/unit3/U3L4/img816.png" media-type="image/png"></item>
+		<item id="img817.png" href="image/unit3/U3L4/img817.png" media-type="image/png"></item>
+		<item id="img818.png" href="image/unit3/U3L4/img818.png" media-type="image/png"></item>
+		<item id="img819.png" href="image/unit3/U3L4/img819.png" media-type="image/png"></item>
+		<item id="img820.png" href="image/unit3/U3L4/img820.png" media-type="image/png"></item>
+		<item id="img821.png" href="image/unit3/U3L4/img821.png" media-type="image/png"></item>
+		<item id="img822.png" href="image/unit3/U3L4/img822.png" media-type="image/png"></item>
+		<item id="img823.png" href="image/unit3/U3L4/img823.png" media-type="image/png"></item>
+		<item id="img824.png" href="image/unit3/U3L4/img824.png" media-type="image/png"></item>
+		<item id="img825.png" href="image/unit3/U3L4/img825.png" media-type="image/png"></item>
+		<item id="img826.png" href="image/unit3/U3L4/img826.png" media-type="image/png"></item>
+		<item id="img827.png" href="image/unit3/U3L4/img827.png" media-type="image/png"></item>
+		<item id="img828.png" href="image/unit3/U3L4/img828.png" media-type="image/png"></item>
+		<item id="img829.png" href="image/unit3/U3L4/img829.png" media-type="image/png"></item>
+		<item id="img830.png" href="image/unit3/U3L4/img830.png" media-type="image/png"></item>
+		<item id="img831.png" href="image/unit3/U3L4/img831.png" media-type="image/png"></item>
+		<item id="img832.png" href="image/unit3/U3L4/img832.png" media-type="image/png"></item>
+		<item id="img833.png" href="image/unit3/U3L4/img833.png" media-type="image/png"></item>
+		<item id="img834.png" href="image/unit3/U3L4/img834.png" media-type="image/png"></item>
+		<item id="img835.png" href="image/unit3/U3L4/img835.png" media-type="image/png"></item>
+		<item id="img836.png" href="image/unit3/U3L4/img836.png" media-type="image/png"></item>
+		<item id="img837.png" href="image/unit3/U3L4/img837.png" media-type="image/png"></item>
+		<item id="img838.png" href="image/unit3/U3L4/img838.png" media-type="image/png"></item>
+		<item id="img839.png" href="image/unit3/U3L4/img839.png" media-type="image/png"></item>
+		<item id="img840.png" href="image/unit3/U3L4/img840.png" media-type="image/png"></item>
+		<item id="img841.png" href="image/unit3/U3L4/img841.png" media-type="image/png"></item>
+		<item id="img842.png" href="image/unit3/U3L4/img842.png" media-type="image/png"></item>
+		<item id="img843.png" href="image/unit3/U3L4/img843.png" media-type="image/png"></item>
+		<item id="img844.png" href="image/unit3/U3L4/img844.png" media-type="image/png"></item>
+		<item id="img845.png" href="image/unit3/U3L4/img845.png" media-type="image/png"></item>
+		<item id="img846.png" href="image/unit3/U3L4/img846.png" media-type="image/png"></item>
+		<item id="img847.png" href="image/unit3/U3L4/img847.png" media-type="image/png"></item>
+		<item id="img848.png" href="image/unit3/U3L4/img848.png" media-type="image/png"></item>
+		<item id="img849.png" href="image/unit3/U3L4/img849.png" media-type="image/png"></item>
+		<item id="img850.png" href="image/unit3/U3L4/img850.png" media-type="image/png"></item>
+		<item id="img851.png" href="image/unit3/U3L4/img851.png" media-type="image/png"></item>
+		<item id="img852.png" href="image/unit3/U3L4/img852.png" media-type="image/png"></item>
+
+		<!-- Unit 3 Lesson 4 -->
+
+		<item id="img853.png" href="image/unit3/U3L5/img853.png" media-type="image/png"></item>
+		<item id="img854.png" href="image/unit3/U3L5/img854.png" media-type="image/png"></item>
+		<item id="img855.png" href="image/unit3/U3L5/img855.png" media-type="image/png"></item>
+		<item id="img856.png" href="image/unit3/U3L5/img856.png" media-type="image/png"></item>
+		<item id="img857.png" href="image/unit3/U3L5/img857.png" media-type="image/png"></item>
+		<item id="img858.png" href="image/unit3/U3L5/img858.png" media-type="image/png"></item>
+		<item id="img859.png" href="image/unit3/U3L5/img859.png" media-type="image/png"></item>
+		<item id="img860.png" href="image/unit3/U3L5/img860.png" media-type="image/png"></item>
+		<item id="img861.png" href="image/unit3/U3L5/img861.png" media-type="image/png"></item>
+		<item id="img862.png" href="image/unit3/U3L5/img862.png" media-type="image/png"></item>
+		<item id="img863.png" href="image/unit3/U3L5/img863.png" media-type="image/png"></item>
+		<item id="img864.png" href="image/unit3/U3L5/img864.png" media-type="image/png"></item>
+		<item id="img865.png" href="image/unit3/U3L5/img865.png" media-type="image/png"></item>
+		<item id="img866.png" href="image/unit3/U3L5/img866.png" media-type="image/png"></item>
+		<item id="img867.png" href="image/unit3/U3L5/img867.png" media-type="image/png"></item>
+		<item id="img868.png" href="image/unit3/U3L5/img868.png" media-type="image/png"></item>
+		<item id="img869.png" href="image/unit3/U3L5/img869.png" media-type="image/png"></item>
+		<item id="img870.png" href="image/unit3/U3L5/img870.png" media-type="image/png"></item>
+		<item id="img871.png" href="image/unit3/U3L5/img871.png" media-type="image/png"></item>
+		<item id="img872.png" href="image/unit3/U3L5/img872.png" media-type="image/png"></item>
+		<item id="img873.png" href="image/unit3/U3L5/img873.png" media-type="image/png"></item>
+		<item id="img874.png" href="image/unit3/U3L5/img874.png" media-type="image/png"></item>
+		<item id="img875.png" href="image/unit3/U3L5/img875.png" media-type="image/png"></item>
+		<item id="img876.png" href="image/unit3/U3L5/img876.png" media-type="image/png"></item>
+		<item id="img877.png" href="image/unit3/U3L5/img877.png" media-type="image/png"></item>
+		<item id="img878.png" href="image/unit3/U3L5/img878.png" media-type="image/png"></item>
+		<item id="img879.png" href="image/unit3/U3L5/img879.png" media-type="image/png"></item>
+		<item id="img880.png" href="image/unit3/U3L5/img880.png" media-type="image/png"></item>
+		<item id="img881.png" href="image/unit3/U3L5/img881.png" media-type="image/png"></item>
+		<item id="img882.png" href="image/unit3/U3L5/img882.png" media-type="image/png"></item>
+		<item id="img883.png" href="image/unit3/U3L5/img883.png" media-type="image/png"></item>
+		<item id="img884.png" href="image/unit3/U3L5/img884.png" media-type="image/png"></item>
+		<item id="img885.png" href="image/unit3/U3L5/img885.png" media-type="image/png"></item>
+		<item id="img886.png" href="image/unit3/U3L5/img886.png" media-type="image/png"></item>
+		<item id="img887.png" href="image/unit3/U3L5/img887.png" media-type="image/png"></item>
+		<item id="img888.png" href="image/unit3/U3L5/img888.png" media-type="image/png"></item>
+		<item id="img889.png" href="image/unit3/U3L5/img889.png" media-type="image/png"></item>
+		<item id="img890.png" href="image/unit3/U3L5/img890.png" media-type="image/png"></item>
+		<item id="img891.png" href="image/unit3/U3L5/img891.png" media-type="image/png"></item>
+		<item id="img892.png" href="image/unit3/U3L5/img892.png" media-type="image/png"></item>
+		<item id="img893.png" href="image/unit3/U3L5/img893.png" media-type="image/png"></item>
+		<item id="img894.png" href="image/unit3/U3L5/img894.png" media-type="image/png"></item>
+		<item id="img895.png" href="image/unit3/U3L5/img895.png" media-type="image/png"></item>
+		<item id="img896.png" href="image/unit3/U3L5/img896.png" media-type="image/png"></item>
+		<item id="img897.png" href="image/unit3/U3L5/img897.png" media-type="image/png"></item>
 
 	</manifest>
 	<spine toc="ncx">
