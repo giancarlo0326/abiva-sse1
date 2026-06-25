@@ -82,6 +82,362 @@
 			<content src="unit1/U1L1.xhtml" />
 		</navPoint>
 
+		<navPoint id="navpoint11" playOrder="11">
+            <navLabel>
+                <text>Day 2</text>
+            </navLabel>
+            <content src="unit1/U1L2.xhtml" />
+        </navPoint>
 		
+        <navPoint id="navpoint12" playOrder="12">
+            <navLabel>
+                <text>Day 3</text>
+            </navLabel>
+            <content src="unit1/U1L3.xhtml" />
+        </navPoint>
+		
+        <navPoint id="navpoint13" playOrder="13">
+            <navLabel>
+                <text>Day 4</text>
+            </navLabel>
+            <content src="unit1/U1L4.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint14" playOrder="14">
+            <navLabel>
+                <text>Day 5</text>
+            </navLabel>
+            <content src="unit1/U1L5.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint15" playOrder="15">
+            <navLabel>
+                <text>Day 6</text>
+            </navLabel>
+            <content src="unit1/U1L6.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint16" playOrder="16">
+            <navLabel>
+                <text>Day 7</text>
+            </navLabel>
+            <content src="unit1/U1L7.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint17" playOrder="17">
+            <navLabel>
+                <text>Day 8</text>
+            </navLabel>
+            <content src="unit1/U1L8.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint18" playOrder="18">
+            <navLabel>
+                <text>Day 9</text>
+            </navLabel>
+            <content src="unit1/U1L9.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint19" playOrder="19">
+            <navLabel>
+                <text>Day 10</text>
+            </navLabel>
+            <content src="unit1/U1L10.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint20" playOrder="20">
+            <navLabel>
+                <text>Day 11</text>
+            </navLabel>
+            <content src="unit1/U1L11.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint21" playOrder="21">
+            <navLabel>
+                <text>Day 12</text>
+            </navLabel>
+            <content src="unit1/U1L12.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint22" playOrder="22">
+            <navLabel>
+                <text>Day 13</text>
+            </navLabel>
+            <content src="unit1/U1L13.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint23" playOrder="23">
+            <navLabel>
+                <text>Day 14</text>
+            </navLabel>
+            <content src="unit1/U1L14.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint24" playOrder="24">
+            <navLabel>
+                <text>Day 15</text>
+            </navLabel>
+            <content src="unit1/U1L15.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint25" playOrder="25">
+            <navLabel>
+                <text>Day 16</text>
+            </navLabel>
+            <content src="unit1/U1L16.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint26" playOrder="26">
+            <navLabel>
+                <text>Day 17</text>
+            </navLabel>
+            <content src="unit1/U1L17.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint27" playOrder="27">
+            <navLabel>
+                <text>Day 18</text>
+            </navLabel>
+            <content src="unit1/U1L18.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint28" playOrder="28">
+            <navLabel>
+                <text>Day 19</text>
+            </navLabel>
+            <content src="unit1/U1L19.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint29" playOrder="29">
+            <navLabel>
+                <text>Day 20</text>
+            </navLabel>
+            <content src="unit1/U1L20.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint30" playOrder="30">
+            <navLabel>
+                <text>Day 21</text>
+            </navLabel>
+            <content src="unit1/U1L21.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint31" playOrder="31">
+            <navLabel>
+                <text>Day 22</text>
+            </navLabel>
+            <content src="unit1/U1L22.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint32" playOrder="32">
+            <navLabel>
+                <text>Day 23</text>
+            </navLabel>
+            <content src="unit1/U1L23.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint33" playOrder="33">
+            <navLabel>
+                <text>Day 24</text>
+            </navLabel>
+            <content src="unit1/U1L24.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint34" playOrder="34">
+            <navLabel>
+                <text>Day 25</text>
+            </navLabel>
+            <content src="unit1/U1L25.xhtml" />
+        </navPoint>
+		
+        <navPoint id="navpoint35" playOrder="35">
+            <navLabel>
+                <text>Day 26</text>
+            </navLabel>
+            <content src="unit1/U1L26.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint36" playOrder="36">
+            <navLabel>
+                <text>Day 27</text>
+            </navLabel>
+            <content src="unit1/U1L27.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint37" playOrder="37">
+            <navLabel>
+                <text>Day 28</text>
+            </navLabel>
+            <content src="unit1/U1L28.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint38" playOrder="38">
+            <navLabel>
+                <text>Day 29</text>
+            </navLabel>
+            <content src="unit1/U1L29.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint39" playOrder="39">
+            <navLabel>
+                <text>Day 30</text>
+            </navLabel>
+            <content src="unit1/U1L30.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint40" playOrder="40">
+            <navLabel>
+                <text>Day 31</text>
+            </navLabel>
+            <content src="unit1/U1L31.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint41" playOrder="41">
+            <navLabel>
+                <text>Day 32</text>
+            </navLabel>
+            <content src="unit1/U1L32.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint42" playOrder="42">
+            <navLabel>
+                <text>Day 33</text>
+            </navLabel>
+            <content src="unit1/U1L33.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint43" playOrder="43">
+            <navLabel>
+                <text>Day 34</text>
+            </navLabel>
+            <content src="unit1/U1L34.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint44" playOrder="44">
+            <navLabel>
+                <text>Day 35</text>
+            </navLabel>
+            <content src="unit1/U1L35.xhtml" />
+        </navPoint>
+		
+        <navPoint id="navpoint45" playOrder="45">
+            <navLabel>
+                <text>Day 36</text>
+            </navLabel>
+            <content src="unit1/U1L36.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint46" playOrder="46">
+            <navLabel>
+                <text>Day 37</text>
+            </navLabel>
+            <content src="unit1/U1L37.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint47" playOrder="47">
+            <navLabel>
+                <text>Day 38</text>
+            </navLabel>
+            <content src="unit1/U1L38.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint48" playOrder="48">
+            <navLabel>
+                <text>Day 39</text>
+            </navLabel>
+            <content src="unit1/U1L39.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint49" playOrder="49">
+            <navLabel>
+                <text>Day 40</text>
+            </navLabel>
+            <content src="unit1/U1L40.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint51" playOrder="51">
+            <navLabel>
+                <text>Day 41</text>
+            </navLabel>
+            <content src="unit1/U1L41.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint52" playOrder="52">
+            <navLabel>
+                <text>Day 42</text>
+            </navLabel>
+            <content src="unit1/U1L42.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint53" playOrder="53">
+            <navLabel>
+                <text>Day 43</text>
+            </navLabel>
+            <content src="unit1/U1L43.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint54" playOrder="54">
+            <navLabel>
+                <text>Day 44</text>
+            </navLabel>
+            <content src="unit1/U1L44.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint55" playOrder="55">
+            <navLabel>
+                <text>Day 45</text>
+            </navLabel>
+            <content src="unit1/U1L45.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint56" playOrder="56">
+            <navLabel>
+                <text>Day 46</text>
+            </navLabel>
+            <content src="unit1/U1L46.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint57" playOrder="57">
+            <navLabel>
+                <text>Day 47</text>
+            </navLabel>
+            <content src="unit1/U1L47.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint58" playOrder="58">
+            <navLabel>
+                <text>Day 48</text>
+            </navLabel>
+            <content src="unit1/U1L48.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint59" playOrder="59">
+            <navLabel>
+                <text>Day 49</text>
+            </navLabel>
+            <content src="unit1/U1L49.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint60" playOrder="60">
+            <navLabel>
+                <text>Day 50</text>
+            </navLabel>
+            <content src="unit1/U1L50.xhtml" />
+        </navPoint>
+
+        <navPoint id="navpoint61" playOrder="61">
+            <navLabel>
+                <text>Day 51</text>
+            </navLabel>
+            <content src="unit1/U1L51.xhtml" />
+        </navPoint>
+		
+        <navPoint id="navpoint62" playOrder="62">
+            <navLabel>
+                <text>Day 52</text>
+            </navLabel>
+            <content src="unit1/U1L52.xhtml" />
+        </navPoint>
+
 	</navMap>
 </ncx>
